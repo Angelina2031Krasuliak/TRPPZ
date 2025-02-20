@@ -1,0 +1,24 @@
+{
+  "name": "my_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Angelina2031Krasuliak/TRPPZ.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Angelina2031Krasuliak/TRPPZ/issues"
+  },
+  "homepage": "https://github.com/Angelina2031Krasuliak/TRPPZ#readme",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "lodash": "^4.17.21"
+  }
+}
