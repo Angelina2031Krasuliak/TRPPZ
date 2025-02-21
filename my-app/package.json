@@ -13,6 +13,7 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
+  "homepage": "https://Angelina2031Krasuliak.github.io/TRPPZ/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -39,7 +40,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://github.com/Angelina2031Krasuliak/TRPPZ",
+  
   "devDependencies": {
     "gh-pages": "^6.3.0"
   }
